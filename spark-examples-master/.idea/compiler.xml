@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spark-avro-examples" />
+        <module name="spark-kafka" />
+        <module name="spark-scala-examples" />
+        <module name="spark-streaming" />
+        <module name="spark-hive" />
+        <module name="scala-examples" />
+        <module name="spark-sql-examples" />
+        <module name="scala-kafka" />
+        <module name="spark-course" />
+        <module name="spark2.3-avro-examples" />
+        <module name="gcp-spark-tutorial" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="gcp-spark-tutorial" target="1.5" />
+      <module name="scala-examples" target="1.5" />
+      <module name="scala-kafka" target="1.5" />
+      <module name="spark-avro-examples" target="1.5" />
+      <module name="spark-course" target="1.5" />
+      <module name="spark-hive" target="1.5" />
+      <module name="spark-kafka" target="1.5" />
+      <module name="spark-scala-examples" target="1.5" />
+      <module name="spark-sql-examples" target="1.5" />
+      <module name="spark-streaming" target="1.5" />
+      <module name="spark2.3-avro-examples" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

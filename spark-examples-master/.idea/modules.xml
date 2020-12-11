@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/source-code-master/gcp-spark-tutorial/gcp-spark-tutorial.iml" filepath="$PROJECT_DIR$/source-code-master/gcp-spark-tutorial/gcp-spark-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-examples-master/scala-examples/scala-examples.iml" filepath="$PROJECT_DIR$/spark-examples-master/scala-examples/scala-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-examples-master/scala-kafka/scala-kafka.iml" filepath="$PROJECT_DIR$/spark-examples-master/scala-kafka/scala-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-examples-master/spark-avro-examples/spark-avro-examples.iml" filepath="$PROJECT_DIR$/spark-examples-master/spark-avro-examples/spark-avro-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/source-code-master/sparkcourse/spark-course.iml" filepath="$PROJECT_DIR$/source-code-master/sparkcourse/spark-course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spark-examples-master.iml" filepath="$PROJECT_DIR$/.idea/spark-examples-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-examples-master/spark-hive/spark-hive.iml" filepath="$PROJECT_DIR$/spark-examples-master/spark-hive/spark-hive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-examples-master/spark-kafka/spark-kafka.iml" filepath="$PROJECT_DIR$/spark-examples-master/spark-kafka/spark-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-scala-examples-master/spark-scala-examples.iml" filepath="$PROJECT_DIR$/spark-scala-examples-master/spark-scala-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-examples-master/spark-sql-examples/spark-sql-examples.iml" filepath="$PROJECT_DIR$/spark-examples-master/spark-sql-examples/spark-sql-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-examples-master/spark-streaming/spark-streaming.iml" filepath="$PROJECT_DIR$/spark-examples-master/spark-streaming/spark-streaming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-examples-master/spark2.3-avro-examples/spark2.3-avro-examples.iml" filepath="$PROJECT_DIR$/spark-examples-master/spark2.3-avro-examples/spark2.3-avro-examples.iml" />
+    </modules>
+  </component>
+</project>
